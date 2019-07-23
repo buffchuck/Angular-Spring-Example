@@ -1,0 +1,4 @@
+io/com/arnold/robert/application/repositories/UserRepository.class
+io/com/arnold/robert/application/Application.class
+io/com/arnold/robert/application/controllers/UserController.class
+io/com/arnold/robert/application/entities/User.class
